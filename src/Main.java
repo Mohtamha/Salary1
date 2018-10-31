@@ -14,7 +14,7 @@ public class Main {
 		name = sc.nextLine();
 		System.out.print("Input Salary Employee: ");
 		salary = sc.nextDouble();
-		System.out.print("Input Sals : ");
+		System.out.print("Input Sales : ");
 		sales=sc.nextDouble();
 		
 	}
